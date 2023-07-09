@@ -13,6 +13,7 @@
 		F74116452A5AD07500E352E0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F74116432A5AD07500E352E0 /* Main.storyboard */; };
 		F74116472A5AD07600E352E0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F74116462A5AD07600E352E0 /* Assets.xcassets */; };
 		F741164A2A5AD07600E352E0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F74116482A5AD07600E352E0 /* LaunchScreen.storyboard */; };
+		F74116522A5AD13900E352E0 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = F74116512A5AD13900E352E0 /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		F74116462A5AD07600E352E0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F74116492A5AD07600E352E0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F741164B2A5AD07600E352E0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F74116512A5AD13900E352E0 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +42,7 @@
 		F74116312A5AD07500E352E0 = {
 			isa = PBXGroup;
 			children = (
+				F74116512A5AD13900E352E0 /* .gitignore */,
 				F741163C2A5AD07500E352E0 /* Project8 */,
 				F741163B2A5AD07500E352E0 /* Products */,
 			);
@@ -125,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F74116522A5AD13900E352E0 /* .gitignore in Resources */,
 				F741164A2A5AD07600E352E0 /* LaunchScreen.storyboard in Resources */,
 				F74116472A5AD07600E352E0 /* Assets.xcassets in Resources */,
 				F74116452A5AD07500E352E0 /* Main.storyboard in Resources */,
