@@ -15,6 +15,7 @@
 		F741164A2A5AD07600E352E0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F74116482A5AD07600E352E0 /* LaunchScreen.storyboard */; };
 		F74116522A5AD13900E352E0 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = F74116512A5AD13900E352E0 /* .gitignore */; };
 		F74116542A5B159A00E352E0 /* level1.txt in Resources */ = {isa = PBXBuildFile; fileRef = F74116532A5B159A00E352E0 /* level1.txt */; };
+		F74116562A5C6CAC00E352E0 /* level2.txt in Resources */ = {isa = PBXBuildFile; fileRef = F74116552A5C6CAC00E352E0 /* level2.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		F741164B2A5AD07600E352E0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F74116512A5AD13900E352E0 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		F74116532A5B159A00E352E0 /* level1.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = level1.txt; sourceTree = "<group>"; };
+		F74116552A5C6CAC00E352E0 /* level2.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = level2.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 		F741163C2A5AD07500E352E0 /* Project8 */ = {
 			isa = PBXGroup;
 			children = (
+				F74116552A5C6CAC00E352E0 /* level2.txt */,
 				F74116532A5B159A00E352E0 /* level1.txt */,
 				F741163D2A5AD07500E352E0 /* AppDelegate.swift */,
 				F741163F2A5AD07500E352E0 /* SceneDelegate.swift */,
@@ -133,6 +136,7 @@
 			files = (
 				F74116542A5B159A00E352E0 /* level1.txt in Resources */,
 				F74116522A5AD13900E352E0 /* .gitignore in Resources */,
+				F74116562A5C6CAC00E352E0 /* level2.txt in Resources */,
 				F741164A2A5AD07600E352E0 /* LaunchScreen.storyboard in Resources */,
 				F74116472A5AD07600E352E0 /* Assets.xcassets in Resources */,
 				F74116452A5AD07500E352E0 /* Main.storyboard in Resources */,
